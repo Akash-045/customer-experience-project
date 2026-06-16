@@ -29,7 +29,28 @@ Vanguard, one of the world's largest investment management firms, ran an A/B tes
 
 ---
 # Askash's Section: Hypothesis dashboards: 
-![Dashboard](Akash_Dashboard.png)
+![Akash Dashboard](Akash_Dashboard.png)
+
+### KPIs & Hypotheses
+
+The dashboard visualises the analysis completed as part of the Time Spent per Step KPI and hypothesis testing.
+
+| Analysis                      | What it shows                                                                                                                    |
+| ----------------------------- | -------------------------------------------------------------------------------------------------------------------------------- |
+| **H1: Average Process Time**  | Test users spent significantly more time in the process than Control users (218.03s vs 146.72s, p < 0.001).                      |
+| **H2: Confirm Step Analysis** | The largest time difference occurred at the Confirm step, indicating potential friction in the redesigned final stage.           |
+| **Time per Step KPI**         | Step-level analysis showed that users generally spent more time navigating the redesigned experience.                            |
+| **Duration Assessment**       | The experiment ran for 97 days (15 Mar 2017 – 20 Jun 2017), providing sufficient data volume and coverage for reliable analysis. |
+
+### Key Findings
+
+* The redesigned interface did not reduce overall process time.
+* Users in the Test group spent significantly longer completing the process.
+* The Confirm step showed the greatest increase in time spent.
+* The experiment duration was sufficient to capture meaningful user behaviour patterns.
+
+> Dashboard built in Tableau using `web_combined.csv` and `demo_clean.csv` connected through a relationship on `client_id`.
+
 
 # Fiona's Section: Hypothesis dashboards: 
 ![Dashboard](Dashboard.png)
