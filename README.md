@@ -29,8 +29,8 @@ Vanguard, one of the world's largest investment management firms, ran an A/B tes
 
 ---
 # Askash's Section: Hypothesis dashboards: 
+![Dashboard](Akash_Dashboard.png)
 
----
 # Fiona's Section: Hypothesis dashboards: 
 ![Dashboard](Dashboard.png)
 ### KPIs & Hypotheses
