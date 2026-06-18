@@ -28,7 +28,7 @@ Vanguard, one of the world's largest investment management firms, ran an A/B tes
 5. **Dashboard** Built an interactive Tableau dashboard to visualize results.
 
 ---
-# Askash's Section: Hypothesis dashboards: 
+# Akash's Section: Hypothesis dashboards: 
 ![Akash Dashboard](Akash_Dashboard.png)
 
 ### KPIs & Hypotheses
